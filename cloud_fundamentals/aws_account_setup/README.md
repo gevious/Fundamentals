@@ -1,5 +1,5 @@
 ## Introduction
-In this lesson you will learn how to set up a free Amazon Web Services (or AWS) account, and successfully run commands from the AWS Command Line Interface.
+Hello and welcome to cloud fundamentals. In this lesson you will learn how to set up a free Amazon Web Services (or AWS) account, and successfully run commands from the AWS Command Line Interface.
 
 ## AWS account Setup
 Setting up an AWS account is straight forward. AWS has a free tier, which you'll use today. Just make sure you spend time up-front to understand the pricing for resources you will create in the future.
